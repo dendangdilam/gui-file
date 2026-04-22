@@ -1,0 +1,5 @@
+Cấu hình 1: Laptop ASUS ROG Strix G16 G615JPR-S5107W; CPU Intel Core i7-14650HX (30MB Cache, up to 5.20GHz)
+RAM 32GB DDR5 SO-DIMM (2x16GB); SSD 1TB PCIe 4.0 NVMe M.2; VGA NVIDIA GeForce RTX 5070 8GB GDDR7; Display 16.0 inch 2.5K, 16:10, 240Hz, 100% DCI-P3, G-Sync, Anti-glare, ROG Nebula; Pin 4-cell 90WHrs; RGB Keyboard, Camera IR; Color Eclipse Gray; Weight 2.73 Kg; OS Windows 11 Home SL
+
+Cấu hình 2: MSI Katana 15 HX B14WFK025VNBLACK; Core 17-14650HX, 16G, 512GSSD. 15.6QHD 165Hz, WL, BT, 4C, 8G RTX5060. RGB KB. 2Y. DEN
+
